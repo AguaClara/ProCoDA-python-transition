@@ -8,7 +8,7 @@ Luke Bowsher
 
 # Subteam Lead:
 
-Chris Choilee
+Chris Choilee (cdc227)
 
 # Team Members:
 
