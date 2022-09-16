@@ -12,7 +12,7 @@ Chris Choilee
 
 # Team Members:
 
-Mahi Narayanan Nair, Henry Chen
+Mahi Narayanan Nair (mfn37), Henry Chen
 
 # Semester Goals:
 
