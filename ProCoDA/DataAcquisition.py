@@ -10,4 +10,4 @@ class DataAqusition:
 
     def read_data(self):
         # implement a function to read data in from somewhere and set our class var
-        return
+        pass
