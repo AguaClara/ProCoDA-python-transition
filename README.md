@@ -12,7 +12,7 @@ Chris Choilee (cdc227)
 
 # Team Members:
 
-Mahi Narayanan Nair (mfn37), Henry Chen
+Mahi Narayanan Nair (mfn37), Henry Chen(hc659)
 
 # Semester Goals:
 
