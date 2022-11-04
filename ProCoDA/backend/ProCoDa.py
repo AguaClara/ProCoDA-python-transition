@@ -1,6 +1,6 @@
-import DataAcquisition
+import Buffer
 
 
 class ProCoDa:
     # class that contains all ProCoDa attributes
-    data_acqusition = DataAcquisition()
+    data_acqusition = Buffer()
