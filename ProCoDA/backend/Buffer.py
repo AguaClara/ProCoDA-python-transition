@@ -6,10 +6,6 @@ class Buffer:
         self.buffer = np.zeros(size)
         self.size = size
 
-    # @classmethod
-    # def set_data(cls, data):
-    #     DataAcquisition.data = data
-
     def read_average(self):
         return self.buffer.sum() / self.size
 
@@ -36,4 +32,7 @@ class Buffer:
 
     def write(self,data):
         self.buffer.append(data)
-        pass
+
+    def write(self, data):
+        self.buffer = np.concatenate(self.buffer, data)
+
