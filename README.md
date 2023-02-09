@@ -4,7 +4,7 @@ Welcome to the ProCoDA Python Transition subteam!
 
 # Research Advisor: 
 
-Luke Bowsher
+Ethan Stanley
 
 # Subteam Lead:
 
@@ -22,4 +22,4 @@ ProCoDA is an easily configured process control and data acquisition software an
 
 # Links to Reports and Presentations
 
-## Fall 2022
+## Spring 2023
