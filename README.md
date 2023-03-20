@@ -12,7 +12,7 @@ Chris Choilee (cdc227)
 
 # Team Members:
 
-Mahi Narayanan Nair (mfn37), Henry Chen(hc659)
+Mahi Narayanan Nair (mfn37), Henry Chen (hc659), Dora Weng (cw749), Aasha Yeluri (ay324)
 
 # Semester Goals:
 
